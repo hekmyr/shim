@@ -1,0 +1,6 @@
+{
+  "type": "commonjs",
+  "scripts": {
+    "runner": "node src/runner.js"
+  }
+}
