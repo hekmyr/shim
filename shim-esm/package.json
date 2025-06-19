@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "scripts": {
+    "runner": "node --experimental-loader ./loader.js src/runner.js"
+  }
+}
